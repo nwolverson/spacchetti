@@ -18,6 +18,7 @@
 ⫽ ./groups/sharkdp.dhall
 ⫽ ./groups/slamdata.dhall
 ⫽ ./groups/lumihq.dhall
+⫽ ./groups/menelaos.dhall
 ⫽ ./groups/nwolverson.dhall
 ⫽ ./groups/natefaubion.dhall
 ⫽ ./groups/paf31.dhall
