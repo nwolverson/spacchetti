@@ -13,6 +13,7 @@
 ⫽ ./groups/gcanti.dhall
 ⫽ ./groups/hdgarrood.dhall
 ⫽ ./groups/kcsongor.dhall
+⫽ ./groups/kRITZCREEK.dhall
 ⫽ ./groups/morganthomas.dhall
 ⫽ ./groups/owickstrom.dhall
 ⫽ ./groups/sharkdp.dhall

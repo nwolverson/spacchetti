@@ -795,6 +795,21 @@
     "repo": "https://github.com/purescript-contrib/purescript-js-timers.git",
     "version": "v4.0.1"
   },
+  "language-server": {
+    "dependencies": [
+      "aff-promise",
+      "errors",
+      "foreign-generic",
+      "node-child-process",
+      "node-fs-aff",
+      "node-process",
+      "psc-ide",
+      "stringutils",
+      "test-unit"
+    ],
+    "repo": "https://github.com/nwolverson/purescript-language-server.git",
+    "version": "v0.12.0"
+  },
   "lazy": {
     "dependencies": [
       "control",
@@ -1334,6 +1349,21 @@
     ],
     "repo": "https://github.com/purescript/purescript-proxy.git",
     "version": "v3.0.0"
+  },
+  "psc-ide": {
+    "dependencies": [
+      "aff",
+      "argonaut",
+      "arrays",
+      "console",
+      "maybe",
+      "node-child-process",
+      "node-fs",
+      "parallel",
+      "random"
+    ],
+    "repo": "https://github.com/kRITZCREEK/purescript-psc-ide.git",
+    "version": "v13.0.0"
   },
   "psci-support": {
     "dependencies": [
