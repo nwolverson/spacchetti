@@ -19,4 +19,9 @@ in  { aff-promise =
         ]
         "https://github.com/nwolverson/purescript-language-server.git"
         "v0.12.0"
+    , pursuit-lookup =
+        mkPackage
+        [ "argonaut", "affjax", "argonaut-codecs", "prelude" ]
+        "https://github.com/nwolverson/purescript-pursuit-lookup.git"
+        "v0.0.2"
     }

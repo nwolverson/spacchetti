@@ -1374,6 +1374,16 @@
     "repo": "https://github.com/purescript/purescript-psci-support.git",
     "version": "v4.0.0"
   },
+  "pursuit-lookup": {
+    "dependencies": [
+      "affjax",
+      "argonaut",
+      "argonaut-codecs",
+      "prelude"
+    ],
+    "repo": "https://github.com/nwolverson/purescript-pursuit-lookup.git",
+    "version": "v0.0.1"
+  },
   "quickcheck": {
     "dependencies": [
       "arrays",
