@@ -13,5 +13,5 @@ in  { psc-ide =
         , "random"
         ]
         "https://github.com/kRITZCREEK/purescript-psc-ide.git"
-        "v13.0.0"
+        "v14.0.0"
     }
